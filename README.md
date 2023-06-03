@@ -1,4 +1,4 @@
-<style>
+
 
 
   
@@ -14,7 +14,7 @@ meatme is a mobile application for meat fresh detection.
   
   
 
-</style>
+
 
 
 
